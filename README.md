@@ -35,3 +35,20 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Final Product
+---
+Main Page
+!["Screenshot of main page"](https://raw.githubusercontent.com/TyreeWebber/jungle-rails/master/docs/mainpage.png)
+
+Signup Page
+!["Screenshot of signup page"](https://raw.githubusercontent.com/TyreeWebber/jungle-rails/master/docs/signupPage.png)
+
+Login Page
+!["Screenshot of login page"](https://raw.githubusercontent.com/TyreeWebber/jungle-rails/master/docs/loginPage.png)
+
+Empty Cart
+!["Screenshot of empty cart"](https://raw.githubusercontent.com/TyreeWebber/jungle-rails/master/docs/emptyCart.png)
+
+Filled Cart
+!["Screenshot of filled cart"](https://raw.githubusercontent.com/TyreeWebber/jungle-rails/master/docs/filledCart.png)
