@@ -2,6 +2,9 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Purpose
+---
+This is a project by [Tyree Webber](https://github.com/TyreeWebber) and was created as part of the [Lighthouse Labs](https://www.lighthouselabs.ca/) curriculum. It is not intended for professional use. ~~if you are using it for professional use please pay me i'm poor.~~
 ## Setup
 
 1. Run `bundle install` to install dependencies
@@ -19,7 +22,10 @@ If Rails is complaining about authentication to the database, uncomment the user
 
 ## Stripe Testing
 
-Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
+For testing success scenarios.
+- Card Number # 4111 1111 1111 1111
+- Expiry (Any Future Date)
+- CVV (Any 3 Digit Number)
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
